@@ -1,5 +1,5 @@
-
+# Challenges
 
 Attempting random coding challenges:
 
-      [Python](.../tree/master/Python)
+      [Python] (https://github.com/rittythomas/CodeChallenges/tree/master/Python)
